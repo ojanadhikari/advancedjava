@@ -1,0 +1,8 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®šÅ+8ÓÓ‘ğı1J$6dc36938-974b-41cd-9976-6617f5817f24
+Œ
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(âÑÃ‰8ÿÓ‘ğı1J$46b1c2f4-16eb-490e-bc39-aef35c2527bd
+s
+java:S1128"+Remove this unused import 'java.awt.Color'.(ùÈãÈøÿÿÿÿ8ø‹·ú2J$187cbab2-7f5f-44b2-996b-d63ac9da1d71
+~
+java:S1128"6Remove this unused import 'java.awt.geom.Rectangle2D'.(Å‰Ÿıÿÿÿÿ8»ä¶ú2J$055f45a5-7921-41da-825c-915991121d56
