@@ -14,8 +14,8 @@ public class Line extends MyFrame {
     @Override
     public void paint(Graphics g) {
         Graphics2D g2d = (Graphics2D) g;
-        Line2D line = new Line2D.Double(50, 50, 200, 200);
-        g2d.fill(line);
+//        Line2D line = new Line2D.Double(50, 50, 200, 200);
+        g2d.drawLine(50,50,200,200);
     }
 
     public static void main(String[] args) {

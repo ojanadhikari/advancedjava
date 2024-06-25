@@ -1,10 +1,6 @@
 
-›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®šÅ+8ÎŸÙú2J$e47a3648-77a6-437c-95c8-0a510fff1aa8
-
-java:S1854"9Remove this useless assignment to local variable "color".(àÑ´¬ÿÿÿÿÿ8û§áú2J$6087961e-7143-4627-9460-8b21b66890f2
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®šÅ+8ÎŸÙú2J$4b48f79f-a514-42be-b953-07017c66627d
 r
-java:S1481"*Remove this unused "color" local variable.(àÑ´¬ÿÿÿÿÿ8ı§áú2J$cb349506-1c32-425c-afb1-95a146de0b5a
-r
-java:S1481!"*Remove this unused "frame" local variable.(·’âøÿÿÿÿ8àŸÙú2J$3bee5973-e723-4784-9389-049cbfb7e291
+java:S1481!"*Remove this unused "frame" local variable.(·’âøÿÿÿÿ8àŸÙú2J$705c4bba-ed0d-4b6f-8490-3d901e8cbf41
 p
-java:S1128"(Remove this unused import 'javax.swing'.(Ìí¿Üüÿÿÿÿ8áŸÙú2J$137da121-4577-4d30-ad03-a2f2e0defe73
+java:S1128"(Remove this unused import 'javax.swing'.(Ìí¿Üüÿÿÿÿ8áŸÙú2J$8bf50603-1f89-490f-94a2-d28677ea0407

@@ -1,8 +1,8 @@
 
-›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®šÅ+8ğâŒ‚ü1J$f802733c-0e12-47a4-9502-64dd3178ebd9
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®šÅ+8ğâŒ‚ü1J$def6f5b5-d8cb-451f-8918-73f6e1876fdb
 ‘
-java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ8ãŒ‚ü1J$95b77526-b838-4c05-b8a2-58985b0b6207
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ8ãŒ‚ü1J$e8617d79-cfc2-4679-8cc7-233337144b70
 ´
-java:S1130%"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8’ãŒ‚ü1J$e0e458d4-cb24-4332-9dbc-7c33ac1816b4
+java:S1130$"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8’ãŒ‚ü1J$747cfa70-4ee8-4a60-9087-0e11d6ce8556
 n
-java:S1602&",Remove useless curly braces around statement(°›ìU8ƒñ”ïı1J$4ce699a8-56be-45c4-bf49-23d32cbb9104
+java:S1602%",Remove useless curly braces around statement(°›ìU8ƒñ”ïı1J$25be12e2-4e56-4a78-9d30-8cdd84ca4fb5

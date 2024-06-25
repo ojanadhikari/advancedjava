@@ -25,7 +25,6 @@ public class Shapes extends JFrame {
         g2d.drawRect(200, 200, 200, 200); //code to draw line
         g2d.drawLine(50, 50, 200, 180); //code to draw ellipse
         g2d.draw(new Ellipse2D.Double(400, 400, 250, 250));
-        g2d.setPaint(Color.GREEN);
     }
 
     @Override

@@ -16,7 +16,7 @@ public class Font2 extends MyFrame{
         Font font1 = new Font("Yrsa", Font.BOLD, 20);
         Font font2 = new Font("Timmana", Font.PLAIN, 30);
         Font font3 = new Font("Roboto", Font.ITALIC, 40);
-        g2d.setFont(font3);
+        g2d.setFont(font1);
         g2d.drawString(message, 100, 100);
     }
 

@@ -1,8 +1,8 @@
 
-›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®šÅ+8ÓÓ‘ğı1J$6dc36938-974b-41cd-9976-6617f5817f24
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®šÅ+8ÓÓ‘ğı1J$5aaf2b95-28d3-44bb-a818-ef8e1c392b21
 Œ
-java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(âÑÃ‰8ÿÓ‘ğı1J$46b1c2f4-16eb-490e-bc39-aef35c2527bd
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(âÑÃ‰8ÿÓ‘ğı1J$3e1f1014-40e1-4318-8e25-9ebe5ae1fd16
 s
-java:S1128"+Remove this unused import 'java.awt.Color'.(ùÈãÈøÿÿÿÿ8ø‹·ú2J$187cbab2-7f5f-44b2-996b-d63ac9da1d71
+java:S1128"+Remove this unused import 'java.awt.Color'.(ùÈãÈøÿÿÿÿ8ø‹·ú2J$1e9b2157-1178-4685-9151-cfffb7500e11
 ~
-java:S1128"6Remove this unused import 'java.awt.geom.Rectangle2D'.(Å‰Ÿıÿÿÿÿ8»ä¶ú2J$055f45a5-7921-41da-825c-915991121d56
+java:S1128"6Remove this unused import 'java.awt.geom.Rectangle2D'.(Å‰Ÿıÿÿÿÿ8»ä¶ú2J$c535b185-96ce-4fc6-8bbb-73f33fc864aa
