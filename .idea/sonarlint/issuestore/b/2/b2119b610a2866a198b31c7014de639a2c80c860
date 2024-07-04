@@ -1,6 +1,6 @@
 
-›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®šÅ+8Ø›«é„2J$9273e893-a056-483e-a678-d64a554d1275
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®šÅ+8Ø›«é„2J$e1a6971f-6296-4e10-bc0b-143d8cdd33ea
 ‘
-java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Ì‡ÇÂÿÿÿÿÿ8÷›«é„2J$506f32b3-b509-4b25-a4a6-f4efc78d1828
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Ì‡ÇÂÿÿÿÿÿ8÷›«é„2J$53a45d1d-36e8-421a-a347-9a781d1c3dfe
 t
-java:S1128"1Remove this unused import 'java.awt.geom.Line2D'.(ìôÆÆ8êÈ¬é„2J$0b6f9c44-b01f-4ee5-bca5-a061955c612b
+java:S1128"1Remove this unused import 'java.awt.geom.Line2D'.(ìôÆÆ8êÈ¬é„2J$0312a859-bdaa-4508-8234-232f3c5bc958

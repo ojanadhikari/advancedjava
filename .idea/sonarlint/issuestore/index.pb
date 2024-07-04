@@ -23,3 +23,7 @@ R
 "src/UNIT1SWING/ImageComponent.java,1/3/1369b47d406de716ce762b56c13d2407d3f832ed
 K
 src/UNIT1SWING/Imageee.java,1/f/1f2560fb6d478f9e89d90f56dc1d249b578bdea0
+J
+src/Unit2JDBC/Connect.java,e/7/e765d3cedf495ad286298ded4c78599a531b83f6
+J
+src/Unit2JDBC/Student.java,f/f/ff5833b0c7327dc961dd208dc0db819ec67c467d
