@@ -1,12 +1,12 @@
 
-›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®šÅ+8¼Æïú2J$291821da-9b3d-4dd8-85ae-6ccab594e685
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®šÅ+8¼Æïú2J$3fc1560a-acf0-48e8-9eca-54011781666d
 
-java:S1854"9Remove this useless assignment to local variable "font3".(·èÿÿÿÿÿ8­Ïäé„2J$faa6b09b-3e2e-4e0d-bc77-ff8096e350b5
-V
-java:S1854"9Remove this useless assignment to local variable "font2".(“°ó¾8Îöåé„2
-G
-java:S1481"*Remove this unused "font2" local variable.(“°ó¾8Ùöåé„2
+java:S1854"9Remove this useless assignment to local variable "font3".(·èÿÿÿÿÿ8­Ïäé„2J$2075ddeb-5328-47a0-9610-b9626bf18c46
+|
+java:S1854"9Remove this useless assignment to local variable "font2".(“°ó¾8Îöåé„2J$10c2e7c6-d559-4968-a1bf-29e2450e2a3c
+m
+java:S1481"*Remove this unused "font2" local variable.(“°ó¾8Ùöåé„2J$841a6951-52d5-46d7-876a-d31b2526aa9a
 r
-java:S1481"*Remove this unused "font3" local variable.(·èÿÿÿÿÿ8¶Ïäé„2J$86e8d32e-b2ea-4c62-ac1f-0899db5adb0a
+java:S1481"*Remove this unused "font3" local variable.(·èÿÿÿÿÿ8¶Ïäé„2J$85955ba3-c87e-42fb-8020-374e0c8bb7c8
 h
-java:S1481"&Remove this unused "f" local variable.(Ã· z8Î¡ñú2J$90a8032d-d4b7-4500-88d8-82e9558c359d
+java:S1481"&Remove this unused "f" local variable.(Ã· z8Î¡ñú2J$f468150d-faa4-4cd6-8d9c-8b1c39068a52

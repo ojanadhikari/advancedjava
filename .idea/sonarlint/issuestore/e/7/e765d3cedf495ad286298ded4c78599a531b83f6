@@ -1,15 +1,15 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÕ®ô8ˆ×‚›‡2J$2d3d93be-de3e-4c7f-8afc-5acd69888eb1
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÕ®ô8ˆ×‚›‡2J$fdf9ed4d-006b-4394-9c71-45b35e5957e0
 ‹
-java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ä™Ôî8±«é±‡2J$47bdcca6-36b6-4022-b4ea-1852d8070670
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ä™Ôî8±«é±‡2J$3dcad466-1620-4036-9789-74df296e1459
 
-java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8±«é±‡2J$a83c51a6-d92a-40ba-b741-a695a7f714a9
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8±«é±‡2J$d238bcd8-6576-4844-b619-9d9eafdaf6a1
 u
-java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8›×‚›‡2J$37dca102-6545-4bb6-86ab-36e96546fa24
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8›×‚›‡2J$06f4b595-10db-4e35-89a3-fd0ef11dfb27
 y
-java:S6437"6Revoke and change this password, as it is compromised.(ä™Ôî8×‚›‡2J$388cfe1d-7576-42b1-b6d2-02ff30fe907e
-r	java:S106"+Replace this use of System.out by a logger.(·Ï·®øÿÿÿÿ8…“±‡2J$507e0076-8266-4b9f-9d20-e86747b699c8
+java:S6437"6Revoke and change this password, as it is compromised.(ä™Ôî8×‚›‡2J$530970be-8338-4e74-980e-f3ff48b99727
+r	java:S106"+Replace this use of System.out by a logger.(·Ï·®øÿÿÿÿ8…“±‡2J$8d6e6717-0485-4714-938c-029f3e5e3520
 b
-java:S69051"Don't use the query "SELECT *".(’ªÁì8ñõç±‡2J$b5053872-d52e-4599-a89a-caee746cff6d
-m	java:S1069"+Replace this use of System.out by a logger.(ÆÀûı8·®ë²‡2J$ee26df6f-88d0-49ca-a2eb-ba4f8895e9fb
-r	java:S106?"+Replace this use of System.out by a logger.(…€°Éùÿÿÿÿ8âÜı²‡2J$eb2a280f-a1ba-47cc-8a63-d2ea1425703f
+java:S69051"Don't use the query "SELECT *".(’ªÁì8ñõç±‡2J$ef776583-4054-421a-8c48-cf5e27c0fdb5
+m	java:S1069"+Replace this use of System.out by a logger.(ÆÀûı8·®ë²‡2J$75628ae8-fcef-4b33-8429-b33b57ff61e6
+r	java:S106?"+Replace this use of System.out by a logger.(…€°Éùÿÿÿÿ8âÜı²‡2J$8a685e3c-1707-4395-bc24-b21da2683140

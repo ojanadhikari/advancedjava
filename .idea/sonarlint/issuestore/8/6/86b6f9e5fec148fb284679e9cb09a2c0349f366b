@@ -1,0 +1,31 @@
+
+>
+java:S1604E"(Make this anonymous inner class a lambda(³Ô¦Ô
+>
+java:S1604U"(Make this anonymous inner class a lambda(«İü
+=
+java:S1604h"(Make this anonymous inner class a lambda(››ıi
+C
+java:S1604u"(Make this anonymous inner class a lambda(Ò¨Âíşÿÿÿÿ
+D
+java:S1604‘"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ
+Q
+java:S6437"6Revoke and change this password, as it is compromised.(ê¢à‹úÿÿÿÿ
+\
+java:S1858G"A"getText" returns a string, there's no need to call "toString()".(ËËóÄÿÿÿÿÿ
+W
+java:S1858H"A"getText" returns a string, there's no need to call "toString()".(ÀÅÊ˜
+\
+java:S1858I"A"getText" returns a string, there's no need to call "toString()".(ÑêşÍûÿÿÿÿ
+\
+java:S1858W"A"getText" returns a string, there's no need to call "toString()".(ËËóÄÿÿÿÿÿ
+W
+java:S1858X"A"getText" returns a string, there's no need to call "toString()".(ÀÅÊ˜
+\
+java:S1858Y"A"getText" returns a string, there's no need to call "toString()".(ÑêşÍûÿÿÿÿ
+\
+java:S1858j"A"getText" returns a string, there's no need to call "toString()".(ËËóÄÿÿÿÿÿ
+:
+java:S6905}"Don't use the query "SELECT *".(îÃÏ›ùÿÿÿÿ
