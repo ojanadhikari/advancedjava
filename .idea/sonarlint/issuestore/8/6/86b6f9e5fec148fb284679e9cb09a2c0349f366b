@@ -1,31 +1,31 @@
 
->
-java:S1604E"(Make this anonymous inner class a lambda(³Ô¦Ô
->
-java:S1604U"(Make this anonymous inner class a lambda(«İü
-=
-java:S1604h"(Make this anonymous inner class a lambda(››ıi
-C
-java:S1604u"(Make this anonymous inner class a lambda(Ò¨Âíşÿÿÿÿ
+E
+java:S1604E"(Make this anonymous inner class a lambda(³Ô¦Ô8¶Ú2
+E
+java:S1604U"(Make this anonymous inner class a lambda(«İü8¶Ú2
 D
-java:S1604‘"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ
-H
-java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ
-Q
-java:S6437"6Revoke and change this password, as it is compromised.(ê¢à‹úÿÿÿÿ
-\
-java:S1858G"A"getText" returns a string, there's no need to call "toString()".(ËËóÄÿÿÿÿÿ
-W
-java:S1858H"A"getText" returns a string, there's no need to call "toString()".(ÀÅÊ˜
-\
-java:S1858I"A"getText" returns a string, there's no need to call "toString()".(ÑêşÍûÿÿÿÿ
-\
-java:S1858W"A"getText" returns a string, there's no need to call "toString()".(ËËóÄÿÿÿÿÿ
-W
-java:S1858X"A"getText" returns a string, there's no need to call "toString()".(ÀÅÊ˜
-\
-java:S1858Y"A"getText" returns a string, there's no need to call "toString()".(ÑêşÍûÿÿÿÿ
-\
-java:S1858j"A"getText" returns a string, there's no need to call "toString()".(ËËóÄÿÿÿÿÿ
-:
-java:S6905}"Don't use the query "SELECT *".(îÃÏ›ùÿÿÿÿ
+java:S1604h"(Make this anonymous inner class a lambda(››ıi8¶Ú2
+J
+java:S1604u"(Make this anonymous inner class a lambda(Ò¨Âíşÿÿÿÿ8¶Ú2
+K
+java:S1604‘"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ8¶Ú2
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8¶Ú2
+X
+java:S6437"6Revoke and change this password, as it is compromised.(ê¢à‹úÿÿÿÿ8•¶Ú2
+c
+java:S1858G"A"getText" returns a string, there's no need to call "toString()".(ËËóÄÿÿÿÿÿ8ë¶Ú2
+^
+java:S1858H"A"getText" returns a string, there's no need to call "toString()".(ÀÅÊ˜8î¶Ú2
+c
+java:S1858I"A"getText" returns a string, there's no need to call "toString()".(ÑêşÍûÿÿÿÿ8ñ¶Ú2
+c
+java:S1858W"A"getText" returns a string, there's no need to call "toString()".(ËËóÄÿÿÿÿÿ8ü¶Ú2
+^
+java:S1858X"A"getText" returns a string, there's no need to call "toString()".(ÀÅÊ˜8ş¶Ú2
+c
+java:S1858Y"A"getText" returns a string, there's no need to call "toString()".(ÑêşÍûÿÿÿÿ8¶Ú2
+c
+java:S1858j"A"getText" returns a string, there's no need to call "toString()".(ËËóÄÿÿÿÿÿ8‹¶Ú2
+A
+java:S6905}"Don't use the query "SELECT *".(îÃÏ›ùÿÿÿÿ8 ¶Ú2

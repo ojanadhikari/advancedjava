@@ -1,0 +1,50 @@
+1. What is Java bean?
+A Java Bean is a reusable software component that follows certain conventions,
+ including having a no-argument constructor, properties accessed via getter and
+ setter methods, and being serializable.
+
+2. Advantages of Java Beans
+JavaBeans provide a standard way to encapsulate objects, allowing them to be manipulated programmatically and visually in development tools. They support properties, event handling, and persistence.
+Reusing Person bean in different contexts like GUI applications or web services.
+
+3. Introspection
+Introspection is the process of analyzing a bean to determine its
+properties, methods, and events.
+ The Introspector class in the java.beans package is used for this purpose.
+
+4. Properties, Events, and Methods Design Patterns
+JavaBeans can have properties (attributes), methods (operations),
+ and events (notifications). Code Example shows a bean with property change support,
+allowing it to notify listeners when a property changes.
+
+5. Using BeanInfo Interface
+The BeanInfo interface provides explicit information about a
+ bean's properties, events, and methods,
+ allowing customization of how beans are presented to development tools.
+
+5. Bound and Constrained Properties
+Bound properties notify listeners of changes,
+while constrained properties allow listeners to veto changes.
+This example demonstrates both concepts.
+
+Bound Properties
+Bound properties notify listeners when their values change. When a property's value changes, the bean sends a notification to all registered listeners, allowing them to react to the change.
+
+Constrained Properties
+Constrained properties allow listeners to veto changes to the property's value. When a change is about to occur,
+the bean first notifies the listeners, giving them a chance to reject (veto) the change if necessary.
+
+6. Persistence
+Persistence allows saving the state of a JavaBean to a storage medium and later restoring it.
+The XMLEncoder and XMLDecoder classes provide a simple way to serialize and deserialize JavaBeans to and from XML.
+
+7. Customizers
+Customizers allow the customization of a JavaBean using a GUI.
+They provide a visual interface for configuring bean properties.
+Each customizer should inherit from the java. awt./swing.
+Component class so it can be instantiated inside an panel
+
+8. The Java Beans API
+The JavaBeans API provides various classes and
+ interfaces for defining and manipulating beans,
+ including support for properties, events, and persistence.

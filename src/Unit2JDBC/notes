@@ -1,0 +1,12 @@
+JdbcRowSet:
+
+JdbcRowSet is a connected row set, meaning it maintains a connection to the database while it is in use.
+The JdbcRowSetImpl is initialized with the database connection details and the SQL command.
+It is then executed using jdbcRowSet.execute(), and data is retrieved in a similar way to ResultSet.
+
+
+CachedRowSet:
+
+CachedRowSet is a disconnected row set, which means it can operate without maintaining a continuous connection to the database.
+After retrieving data into the ResultSet, the CachedRowSet is populated using cachedRowSet.populate(rs).
+Once populated, the CachedRowSet can be used independently of the database connection.
