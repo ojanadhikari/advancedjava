@@ -1,0 +1,27 @@
+1. What is RMI?
+RMI is a mechanism that allows an object residing in one Java Virtual Machine (JVM) to invoke methods on an object in another JVM.
+
+2. The Roles of Client and Server
+Server: Creates and exports a remote object.
+Client: Obtains a reference to the remote object and invokes methods on it.
+
+4. Stubs and Parameter Marshalling
+Stub: The client-side proxy for the remote object, which forwards method calls to the server.
+Parameter Marshalling: The process of packing parameters into a format suitable for transmission over the network.
+
+5. The RMI Programming Model
+Interfaces and Implementations: The remote interface extends java.rmi.Remote. The server class implements this interface.
+RMI Registry: A simple naming service that allows clients to obtain a reference to a remote object.
+6. Parameters and Return Values in Remote Methods
+RMI supports passing of primitive data types, serializable objects, and remote object references as parameters.
+
+7. Remote Object Activation
+Activation allows RMI servers to be started on demand when a client request is made.
+
+8. Simple Client/Server Application using RMI
+The example provided above is a simple client/server application using RMI.
+
+9. Comparing RMI with CORBA
+RMI: Java-specific, easier to use, but limited to Java applications.
+CORBA: Language-independent, more complex, supports integration across different languages.
+
