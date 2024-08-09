@@ -48,3 +48,72 @@ Component class so it can be instantiated inside an panel
 The JavaBeans API provides various classes and
  interfaces for defining and manipulating beans,
  including support for properties, events, and persistence.
+
+9. What is a Bean Design Pattern?
+   A bean design pattern is a set of conventions used in JavaBeans to structure and manage data. It's a standard way to create reusable components that can be easily manipulated by tools and other applications. The primary goal is to make objects introspectable, meaning their properties, methods, and events can be examined and modified at runtime without knowing their internal structure.
+
+   Property Design Patterns
+   There are several property design patterns used in JavaBeans:
+
+   1. Simple Property Design Pattern
+   Definition: A simple property represents a single value associated with a bean. It's accessed through getter and setter methods.
+   Example:
+   Java
+   public class Person {
+       private String name;
+
+       public String getName() {
+           return name;
+       }
+
+       public void setName(String name) {
+           this.name = name;  
+
+       }
+   }
+   Use code with caution.
+
+   In this example, name is a simple property with a getter (getName) and setter (setName) method.
+   2. Boolean Property Design Pattern
+   Definition: A boolean property represents a true or false value. Often, the getter method is named is followed by the property name.
+   Example:
+   Java
+   public class Employee {
+       private boolean isManager;
+
+       public boolean isManager() {
+           return isManager;
+       }
+
+       public void setManager(boolean isManager) {
+           this.isManager = isManager;  
+
+       }
+   }
+   Use code with caution.
+
+   Here, isManager is a boolean property with the getter isManager().
+   3. Indexed Property Design Pattern
+   Definition: An indexed property represents a collection of values that can be accessed by an index. It's typically implemented using arrays or lists.
+   Example:
+   Java
+   public class AddressBook {
+       private String[] addresses;
+
+       public String getAddress(int index) {
+           return addresses[index];
+       }
+
+       public void setAddress(int index, String address) {
+           addresses[index] = address;
+       }
+   }
+   Use code with caution.
+
+   In this case, addresses is an indexed property where individual addresses can be accessed and modified using their index.
+   Key Points:
+
+   These patterns promote consistency and ease of use for tools interacting with beans.
+   They enable introspection, allowing tools to examine and manipulate bean properties without detailed knowledge of the bean's implementation.
+   Proper use of these patterns enhances code readability and maintainability.
+   By adhering to these design patterns, you can create well-structured JavaBeans that are easily integrated into various applications and development environments.

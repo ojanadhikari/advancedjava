@@ -1,0 +1,10 @@
+Background
+Servlets: Java classes that handle requests and generate responses, usually for web applications.
+JSP (JavaServer Pages): A technology that helps create dynamically generated web pages based on HTML, XML, or other document types.
+
+
+The Life Cycle of a Servlet
+Loading and Instantiation: The servlet container loads the servlet class and instantiates it.
+Initialization: The init() method is called by the container to initialize the servlet.
+Request Handling: The service() method is called to handle requests. This method then calls doGet(), doPost(), etc., based on the type of HTTP request.
+Destruction: The destroy() method is called before the servlet is taken out of service.
