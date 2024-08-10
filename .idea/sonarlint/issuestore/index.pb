@@ -54,3 +54,11 @@ F
 src/Unit4JSPSERVLET/QA,f/0/f0f6c332224dac37bb5046c1666bc9aef6482cba
 D
 src/Unit5RMICORBA/QA,7/7/77c219b853c0e1fdd54d8576ad31e94066ed68ae
+W
+'src/Unit5RMICORBA/server/HelloImpl.java,5/1/512ced88b665a4b2f37887dd70b1ff660db05d84
+T
+$src/Unit5RMICORBA/server/Server.java,e/1/e18ea0da0fb9202462451362cd7b22018f290581
+T
+$src/Unit5RMICORBA/client/Client.java,8/a/8af7808a302569ba2974a01e93321f717c852dde
+P
+ src/Unit5RMICORBA/obj/Hello.java,b/e/beb7facdd512cff774fcdc4b1534428b2ea0d329

@@ -1,0 +1,11 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ‚¾´ùÿÿÿÿJ$65bff618-b770-4b23-beb5-1cea2edec326
+k
+java:S1197
+"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿJ$0a835b8e-12c9-46ff-880f-9454c723de41
+k	java:S106"+Replace this use of System.out by a logger.(‰ÂûÿÿÿÿÿJ$958d74bd-c15c-4fa7-ba18-10a86299ed85
+k	java:S106"+Replace this use of System.out by a logger.(úéÅÍşÿÿÿÿJ$7e90d657-5645-408a-ab34-37684caf3af4
+w
+java:S1128"4Remove this unused import 'Unit5RMICORBA.obj.Hello'.(äûÃ«8«ªŠĞ“2J$b049cba6-bc2f-46be-8171-04d3993e4d6a
+ˆ
+java:S1128"@Remove this unused import 'java.rmi.server.UnicastRemoteObject'.(êÜŸûÿÿÿÿ8­ªŠĞ“2J$be6fa1b6-84ce-4e6f-a189-63cba72bd50d

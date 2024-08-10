@@ -1,0 +1,29 @@
+Background
+Servlets: Java classes that handle requests and generate responses, usually for web applications.
+JSP (JavaServer Pages): A technology that helps create dynamically generated web pages based on HTML, XML, or other document types.
+
+
+The Life Cycle of a Servlet
+Loading and Instantiation: The servlet container loads the servlet class and instantiates it.
+Initialization: The init() method is called by the container to initialize the servlet.
+Request Handling: The service() method is called to handle requests. This method then calls doGet(), doPost(), etc., based on the type of HTTP request.
+Destruction: The destroy() method is called before the servlet is taken out of service.
+
+
+JSP vs Servlet
+
+Servlet is a java code.	JSP is a HTML-based compilation code.
+Writing code for servlet is harder than JSP as it is HTML in java.	JSP is easy to code as it is java in HTML.
+Servlet plays a controller role in the ,MVC approach.	JSP is the view in the MVC approach for showing output.
+Servlet is faster than JSP.	JSP is slower than Servlet because the first step in the JSP lifecycle is the translation of JSP to java code and then compile.
+Servlet can accept all protocol requests.	JSP only accepts HTTP requests.
+In Servlet, we can override the service() method.	In JSP, we cannot override its service() method.
+In Servlet by default session management is not enabled, user have to enable it explicitly.	In JSP session management is automatically enabled.
+In Servlet we have to implement everything like business logic and presentation logic in just one servlet file.	In JSP business logic is separated from presentation logic by using JavaBeansclient-side.
+Modification in Servlet is a time-consuming compiling task because it includes reloading, recompiling, JavaBeans and restarting the server.	JSP modification is fast, just need to click the refresh button.
+It does not have inbuilt implicit objects.	In JSP there are inbuilt implicit objects.
+There is no method for running JavaScript on the client side in Servlet.	While running the JavaScript at the client side in JSP, client-side validation is used.
+Packages are to be imported on the top of the program.	Packages can be imported into the JSP program (i.e, bottom , middleclient-side, or top )
+It can handle extensive data processing.	It cannot handle extensive data processing very efficiently.
+The facility of writing custom tags is not present. 	The facility of writing custom tags is present.
+Servlets are hosted and executed on Web Servers.	Before the execution, JSP is compiled in Java Servlets and then it has a similar lifecycle as Servlets.
