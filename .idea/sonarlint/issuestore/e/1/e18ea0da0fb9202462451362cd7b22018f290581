@@ -1,11 +1,11 @@
 
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ‚¾´ùÿÿÿÿJ$65bff618-b770-4b23-beb5-1cea2edec326
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ‚¾´ùÿÿÿÿJ$37d601c2-92bf-4c19-b89f-b64c793d526c
 k
 java:S1197
-"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿJ$0a835b8e-12c9-46ff-880f-9454c723de41
-k	java:S106"+Replace this use of System.out by a logger.(‰ÂûÿÿÿÿÿJ$958d74bd-c15c-4fa7-ba18-10a86299ed85
-k	java:S106"+Replace this use of System.out by a logger.(úéÅÍşÿÿÿÿJ$7e90d657-5645-408a-ab34-37684caf3af4
+"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿJ$c75ecae9-f523-4cc1-8f1f-61e1d41b13a2
+k	java:S106"+Replace this use of System.out by a logger.(‰ÂûÿÿÿÿÿJ$e8e82e7a-80c0-468f-a46d-46962479d7a9
+k	java:S106"+Replace this use of System.out by a logger.(úéÅÍşÿÿÿÿJ$abe2ebae-a499-4f8f-82f1-616db68d0872
 w
-java:S1128"4Remove this unused import 'Unit5RMICORBA.obj.Hello'.(äûÃ«8«ªŠĞ“2J$b049cba6-bc2f-46be-8171-04d3993e4d6a
+java:S1128"4Remove this unused import 'Unit5RMICORBA.obj.Hello'.(äûÃ«8«ªŠĞ“2J$d5dc71c1-cb41-443c-bea9-e1f548f06048
 ˆ
-java:S1128"@Remove this unused import 'java.rmi.server.UnicastRemoteObject'.(êÜŸûÿÿÿÿ8­ªŠĞ“2J$be6fa1b6-84ce-4e6f-a189-63cba72bd50d
+java:S1128"@Remove this unused import 'java.rmi.server.UnicastRemoteObject'.(êÜŸûÿÿÿÿ8­ªŠĞ“2J$18af8bce-5f72-4523-9612-3f36c0a13267
