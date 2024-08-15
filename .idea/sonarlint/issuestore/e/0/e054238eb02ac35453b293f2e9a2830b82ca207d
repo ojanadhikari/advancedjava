@@ -1,0 +1,10 @@
+
+
+java:S1192"HDefine a constant instead of duplicating this literal ", Name=" 4 times.(Öò’íşÿÿÿÿ8¦¢À¸•2J$80bb4659-0993-4ffb-9610-af67989367c7
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÕ®ô8©¢À¸•2J$53996b4d-12a6-4ca5-b956-64431afd95fe
+y
+java:S6437"6Revoke and change this password, as it is compromised.(ÍÈöˆ8Ñ¢À¸•2J$d940a7e6-98a3-4d71-96bd-b49e0329345d
+r	java:S106"+Replace this use of System.out by a logger.(Öò’íşÿÿÿÿ8Ø¢À¸•2J$f70031fc-d63f-4789-a864-7018b7d1e642
+r	java:S106""+Replace this use of System.out by a logger.(ŒıŸ¸ûÿÿÿÿ8Ü¢À¸•2J$9965566e-2f15-475a-b039-fc01fa4be794
+m	java:S106&"+Replace this use of System.out by a logger.(â™8ß¢À¸•2J$19f7da09-f1e9-4add-b306-a4fe8da33f47
+r	java:S106*"+Replace this use of System.out by a logger.(¢‰…±ÿÿÿÿÿ8â¢À¸•2J$4ac921e4-c056-458c-abec-17fb5dae88f4

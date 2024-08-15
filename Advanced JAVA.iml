@@ -10,5 +10,6 @@
     <orderEntry type="library" name="mysql-connector-j-8.0.31" level="project" />
     <orderEntry type="library" name="com.sun.rowset" level="project" />
     <orderEntry type="library" name="javax.servlet-api-3.0.1" level="project" />
+    <orderEntry type="library" name="corba-api-5.0.1" level="project" />
   </component>
 </module>

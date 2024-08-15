@@ -25,3 +25,23 @@ The example provided above is a simple client/server application using RMI.
 RMI: Java-specific, easier to use, but limited to Java applications.
 CORBA: Language-independent, more complex, supports integration across different languages.
 
+
+RMI (Remote Method Invocation)
+Language: Primarily Java. It allows Java objects to invoke methods on other Java objects located remotely.
+Complexity: Simpler to use for Java applications since it's tightly integrated with the Java language and JVM.
+Object-Oriented: It uses Java’s object-oriented features and is designed to work within the Java ecosystem.
+Serialization: Java RMI uses Java’s built-in serialization to handle object transmission.
+Use Case: Ideal for Java-to-Java applications where the communication is mostly between Java objects.
+
+CORBA (Common Object Request Broker Architecture)
+Language: Language-agnostic. CORBA allows communication between objects written in different programming languages.
+Complexity: More complex compared to RMI, as it requires an Interface Definition Language (IDL) to define the interfaces, and involves more setup and configuration.
+Object-Oriented: Designed to work across different languages and platforms, not limited to a single language or ecosystem.
+Serialization: CORBA uses a custom serialization format and its own Object Request Broker (ORB) to handle communication.
+Use Case: Suitable for heterogeneous environments where different programming languages or platforms need to interact.
+
+Comparison Summary
+Ease of Use: RMI is easier to use for Java developers, while CORBA can handle a wider range of languages and platforms but is more complex.
+Interoperability: CORBA provides better support for interoperability between different programming languages.
+Performance: RMI might be simpler and faster within Java environments, but CORBA’s performance can be influenced by its broader scope and additional overhead.
+

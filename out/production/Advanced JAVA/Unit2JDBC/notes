@@ -10,3 +10,13 @@ CachedRowSet:
 CachedRowSet is a disconnected row set, which means it can operate without maintaining a continuous connection to the database.
 After retrieving data into the ResultSet, the CachedRowSet is populated using cachedRowSet.populate(rs).
 Once populated, the CachedRowSet can be used independently of the database connection.
+
+RowSets in JDBC are more flexible and easier to use than traditional ResultSets. They provide several additional features, such as the ability to operate in a disconnected state, making them a good choice for handling data in certain scenarios.
+
+There are different types of RowSets, such as:
+
+JdbcRowSet: Connected RowSet, similar to ResultSet.
+CachedRowSet: Disconnected RowSet that can be serialized.
+WebRowSet: A CachedRowSet with XML read/write capabilities.
+FilteredRowSet: A CachedRowSet that can filter rows based on criteria.
+JoinRowSet: A CachedRowSet that can join data from multiple RowSets.
