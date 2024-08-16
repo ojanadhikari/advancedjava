@@ -54,22 +54,6 @@ F
 src/Unit4JSPSERVLET/QA,f/0/f0f6c332224dac37bb5046c1666bc9aef6482cba
 D
 src/Unit5RMICORBA/QA,7/7/77c219b853c0e1fdd54d8576ad31e94066ed68ae
-W
-'src/Unit5RMICORBA/server/HelloImpl.java,5/1/512ced88b665a4b2f37887dd70b1ff660db05d84
-T
-$src/Unit5RMICORBA/server/Server.java,e/1/e18ea0da0fb9202462451362cd7b22018f290581
-T
-$src/Unit5RMICORBA/client/Client.java,8/a/8af7808a302569ba2974a01e93321f717c852dde
-P
- src/Unit5RMICORBA/obj/Hello.java,b/e/beb7facdd512cff774fcdc4b1534428b2ea0d329
-N
-src/Unit5RMICORBA/corba/cb.idl,8/3/8331e03f2361d840d1c6428fe3a412112b41b270
-V
-&src/Unit5RMICORBA/corba/HelloImpl.java,0/5/0589c955b269efdc4dc2d7722fe20efa72f69b04
-L
-src/Unit2JDBC/ScrAndUpd.java,d/d/dd600431349734eb511a250f1cdbef70f8b31388
-`
-0src/Unit5RMICORBA/corba/HelloApp/_HelloStub.java,1/2/124694bbf9040d20df220e5d60e72433cb559c22
 M
 src/Unit2JDBC/Scrollable.java,e/0/e054238eb02ac35453b293f2e9a2830b82ca207d
 L
@@ -78,3 +62,13 @@ T
 $src/Unit2JDBC/JdbcRowSetExample.java,b/a/bab70915da2ccccd2ce3a9394a926a475bf74d24
 V
 &src/Unit2JDBC/CachedRowSetExample.java,a/6/a67fc234eb2a2ac206d6d37eede2341be293fb22
+[
++src/Unit5RMICORBA/rmi/server/HelloImpl.java,7/2/726265ba6846697887e18e4263c2edc498fd7cb4
+T
+$src/Unit5RMICORBA/rmi/obj/Hello.java,0/9/094213f4c392452ead795d30077d37709770a9dc
+X
+(src/Unit5RMICORBA/rmi/server/Server.java,4/3/43d66a51f7d7ac0d4db0f19442a26147bc861a9a
+X
+(src/Unit5RMICORBA/rmi/client/Client.java,8/b/8bc03738d050b49175bf12bc5fc7168cb75df64b
+<
+src/lab qsns,8/0/802dd45b946aef1ee7c606d03b14244e3c741041

@@ -1,5 +1,7 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÕ®ô8­®Ð¸•2J$ff6b7ac6-fb1e-4b2d-a61b-d531048ec052
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÕ®ô8­®Ð¸•2J$281c5160-cf91-4309-b0d7-0e74b19756a9
 y
-java:S6437"6Revoke and change this password, as it is compromised.(ÍÈöˆ8¿®Ð¸•2J$540df097-5aab-471e-9486-6117944ee6a4
-r	java:S106 "+Replace this use of System.out by a logger.(¹´¬Ôúÿÿÿÿ8Ñ­Ò¸•2J$8e158ce4-00b8-4f12-924f-a1d1d5578ee0
+java:S6437"6Revoke and change this password, as it is compromised.(ÍÈöˆ8¿®Ð¸•2J$e250f148-6f0f-430c-b188-eeb7130c64c7
+r	java:S106$"+Replace this use of System.out by a logger.(¹´¬Ôúÿÿÿÿ8Ñ­Ò¸•2J$81a1236e-5369-4b58-8945-e650edbc3148
+l	java:S106+"+Replace this use of System.out by a logger.(¾Ñ÷%8åÀøÅ•2J$265c2e83-3a3b-4936-a293-9aacf6b44542
+r	java:S106/"+Replace this use of System.out by a logger.(ŽÊ¾­øÿÿÿÿ8¥ØøÅ•2J$007e6b79-6502-4884-ab07-9d491a388b1c

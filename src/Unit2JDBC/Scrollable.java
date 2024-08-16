@@ -20,7 +20,8 @@ public class Scrollable {
         String jdbcUrl = "jdbc:" + databaseType + "://" + host + ":" + port + "/" + databaseName;
 
         try (Connection conn = DriverManager.getConnection(jdbcUrl, user, password);
-             Statement stmt = conn.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE, ResultSet.CONCUR_READ_ONLY)) {
+             Statement stmt = conn.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE,
+                 ResultSet.CONCUR_READ_ONLY)) {
 
             String sql = "SELECT id, name FROM student";
             ResultSet rs = stmt.executeQuery(sql);

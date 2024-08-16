@@ -1,15 +1,0 @@
-
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è«òîúÿÿÿÿ
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÛï™
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÇ‘»
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( öòÀþÿÿÿÿ
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò‰µÀ
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éœúºøÿÿÿÿ
-u
-java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "$result".(ªÇ‘»
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŽðýÝÿÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎïÿÖýÿÿÿÿ
-f
-java:S3008""PRename this field "__ids" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎŸˆ™
-F
-java:S1905'"+Remove this unnecessary cast to "String[]".(È«çéúÿÿÿÿ

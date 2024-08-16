@@ -1,0 +1,40 @@
+1.  Write a Program to draw line, rectangle and ellipse using graphics 2D
+in swing.
+
+2. Write a program to render string "AADIM college" in panel use font style
+and color on it
+
+3. Write a program to draw a rectangle and ellipse and fill different color
+on it.
+
+4. Write a program to display all font family of graphic Environment.
+
+5. Write a swing program to read two input from user using input field and sum
+those values and display it using message dialog.
+
+6. Write a swing program to create Menus.
+
+7. Write a swing program to get two number input using two text field and
+multiply it by clicking button and display it in third text field.
+
+8. Write a swing program to display cube of a number that is taken from input field . On a text area, display the cube result when user hovers mouse and hide when the mouse exits.
+
+9. Show the use of Border , Flow layout.
+
+10 . Write a database program to implementing RowSet.
+
+11. Show the usage of updatable and scrollable result set.
+
+12 .Write a swing program to connect database and display student details in JTable.
+
+13. Write a program to show the RMI server and client usage.
+
+14. Write a simple Hello world servlet.
+
+15. Using JSP and Servlet, write a program to take two number input from a field and display the sum in click of submit button.
+
+16. Write a Java bean showing all of its properties.
+
+17. Write a program to show the usage of cookies in a servlet.
+
+18. Write a program to show the usage of sessions in a servlet.
